@@ -21,3 +21,8 @@
 
 ## 列存
 1. Column-stores vs. row-stores: how different are they really, SIGMOD '08
+
+## Pipeline && 向量化
+1. MonetDB/X100: Hyper-Pipelining Query Execution
+2. Efficiently Compiling Efficient Query Plans for Modern Hardware, VLDB 2011
+    * 消除物化，减小cache和memory的交互，尽可能保存在cache中
