@@ -16,3 +16,8 @@
 1. The Log-Structured Merge-Bush & the Wacky Continuum, SIGMOD 2019
 
 
+## 持久化内存（PM）
+1. Revisiting the Design of LSM-tree Based OLTP Storage Engine with Persistent Memory, VLDB 2021
+
+## 列存
+1. Column-stores vs. row-stores: how different are they really, SIGMOD '08
